@@ -2091,6 +2091,16 @@ python-levenshtein:
   fedora: [python-Levenshtein]
   gentoo: [dev-python/python-levenshtein]
   ubuntu: [python-levenshtein]
+python-librabbitmq-pip:
+  debian: 
+    pip:
+      packages: [librabbitmq]
+  fedora: 
+    pip:
+      packages: [librabbitmq]
+  ubuntu: 
+    pip:
+      packages: [librabbitmq]
 python-libpcap:
   debian: [python-libpcap]
   fedora: [pylibpcap]
