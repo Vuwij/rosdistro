@@ -206,6 +206,9 @@ jupyter-notebook:
     '*': [jupyter-notebook]
     trusty: [ipython-notebook]
     xenial: [ipython-notebook]
+librabbitmq:
+  debian: [librabbitmq]
+  ubuntu: [librabbitmq]
 libgv-python:
   debian: [libgv-python]
   ubuntu: [libgv-python]
